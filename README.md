@@ -89,8 +89,9 @@ public class ComparableExample {
 	}
 
 }  
-  
-#Comparator example code 
+
+
+# Comparator example code 
  
   public class IdComparator implements Comparator<Student> {
     @Override
