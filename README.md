@@ -93,7 +93,7 @@ public class ComparableExample {
 
 # Comparator example code 
  
-  public class IdComparator implements Comparator<Student> {
+public class IdComparator implements Comparator<Student> {
     @Override
     public int compare(Student student1, Student student2) {
         if (student1.getId() ==  student2.getId()){
